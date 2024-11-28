@@ -79,7 +79,7 @@ local scripts = {
     {"SanderXV4.2.2", "https://raw.githubusercontent.com/kigredns/SanderXV4.2.2/refs/heads/main/NormalSS.lua"},
     {"VEGAX", "https://raw.githubusercontent.com/V31nc/discord.com/invite/3NN5zTW7h2"},
     {"Universal-Script-REDZ", "https://rawscripts.net/raw/Universal-Script-REDZ-BrookhavenRP-20468"},
-    {"AstroXTeam", "https://raw.githubusercontent.com/AstroXTeam/AstroXTeam/refs/heads/main/%D9%87%D9%84%D9%88.lua"}
+    {"AstroXTeam", "https://raw.githubusercontent.com/AstroXTeam/AstroXTeam/refs/heads/main/%D9%87%D9%84%D9%88.lua"},
     {"xXSAMUELXx", "https://raw.githubusercontent.com/SAMUCARARONOB/PizzeriaTycoon.com.BR/refs/heads/main/PIZZARIABRASILEIRA"}
 }
 local function createDetailedButton(scriptInfo)
