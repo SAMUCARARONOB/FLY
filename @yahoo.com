@@ -80,7 +80,13 @@ local scripts = {
     {"VEGAX", "https://raw.githubusercontent.com/V31nc/discord.com/invite/3NN5zTW7h2"},
     {"Universal-Script-REDZ", "https://rawscripts.net/raw/Universal-Script-REDZ-BrookhavenRP-20468"},
     {"AstroXTeam", "https://raw.githubusercontent.com/AstroXTeam/AstroXTeam/refs/heads/main/%D9%87%D9%84%D9%88.lua"},
-    {"xXSAMUELXx", "https://raw.githubusercontent.com/SAMUCARARONOB/PizzeriaTycoon.com.BR/refs/heads/main/PIZZARIABRASILEIRA"}
+    {"xXSAMUELXx", "https://raw.githubusercontent.com/SAMUCARARONOB/PizzeriaTycoon.com.BR/refs/heads/main/PIZZARIABRASILEIRA"},
+    {"INFINITEYIELD", "https://raw.githubusercontent.com/EdgeIY/infiniteyield/master/source"},
+    {"NamelessAdmin", "https://raw.githubusercontent.com/FilteringEnabled/NamelessAdmin/main/Source"},
+    {"NewIceHub", "https://raw.githubusercontent.com/IceMae17/NewIceHub/main/Brookhaven"},
+    {"REDzHUB", "https://raw.githubusercontent.com/REDzHUB/REDzHUB/main/REDzHUB"},
+    {"BROOKHAVEN", "https://robloxdatabase.com/script/brookhaven-script/"},
+    {"BROOKHAVEN-ADMIN", "https://raw.githubusercontent.com/NotAtomz/brookhaven-admin/main/script"}
 }
 local function createDetailedButton(scriptInfo)
     local Button = Instance.new("TextButton")
