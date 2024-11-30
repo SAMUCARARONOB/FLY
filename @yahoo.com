@@ -61,7 +61,7 @@ UICorner.Parent = TitleLabel
 ScrollingFrame.Parent = MainFrame
 ScrollingFrame.Size = UDim2.new(1, -40, 1, -80)
 ScrollingFrame.Position = UDim2.new(0, 20, 0, 60)
-local maxButtons = 15
+local maxButtons = 22
 local buttonHeight = 60
 local spacing = 10
 ScrollingFrame.CanvasSize = UDim2.new(0, 0, 0, maxButtons * (buttonHeight + spacing) / 4) -- Ajustado para quatro colunas
@@ -86,7 +86,17 @@ local scripts = {
     {"NewIceHub", "https://raw.githubusercontent.com/IceMae17/NewIceHub/main/Brookhaven"},
     {"REDzHUB", "https://raw.githubusercontent.com/REDzHUB/REDzHUB/main/REDzHUB"},
     {"BROOKHAVEN", "https://robloxdatabase.com/script/brookhaven-script/"},
-    {"BROOKHAVEN-ADMIN", "https://raw.githubusercontent.com/NotAtomz/brookhaven-admin/main/script"}
+    {"BROOKHAVEN-ADMIN", "https://raw.githubusercontent.com/NotAtomz/brookhaven-admin/main/script"},
+    {"CMD-X", "https://raw.githubusercontent.com/CMD-X/CMD-X/main/CMD-X"},
+    {"Hydroxide", "https://raw.githubusercontent.com/Upbolt/Hydroxide/main/init"},
+    {"OwlHub", "https://raw.githubusercontent.com/CriShoux/OwlHub/master/OwlHub.txt"},
+    {"V.Ghub", "https://raw.githubusercontent.com/1201for/V.G-Hub/main/V.Ghub"},
+    {"EclipseHub", "https://raw.githubusercontent.com/Ethanoj1/EclipseHub/main/EclipseHub"},
+    {"HOHO_Hub", "https://raw.githubusercontent.com/acsu123/HOHO_H/main/hohohub"},
+    {"ProjectEvolution", "https://raw.githubusercontent.com/Project-Evolution/Project-Evolution/main/ProjectEvolution"},
+    {"FatesAdmin", "https://raw.githubusercontent.com/fatesc/fates-admin/main/main"},
+    {"InfiniteYield", "https://raw.githubusercontent.com/EdgeIY/infiniteyield/master/source"},
+    {"SimpleSpy", "https://raw.githubusercontent.com/exxtremestuffs/SimpleSpySource/master/SimpleSpy.lua"}
 }
 local function createDetailedButton(scriptInfo)
     local Button = Instance.new("TextButton")
